@@ -72,7 +72,13 @@ export default function Home() {
               Contact
             </a>
             <a
-              href="mailto:andersdev.dk"
+              href="tel:40974842"
+              className="hover:text-white transition-colors"
+            >
+              40 97 48 42
+            </a>
+            <a
+              href="mailto:contact@andersdev.dk"
               className="px-3 py-1.5 rounded-lg bg-indigo-600 text-white hover:bg-indigo-500 transition-colors"
             >
               Hire me
@@ -287,10 +293,10 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="mailto:andersdev.dk"
+              href="mailto:contact@andersdev.dk"
               className="flex items-center gap-2 px-5 py-3 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-medium transition-colors"
             >
-              <span>✉</span> andersdev.dk
+              <span>✉</span> contact@andersdev.dk
             </a>
             <a
               href="tel:40974842"
