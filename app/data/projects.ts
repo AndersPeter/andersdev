@@ -6,23 +6,5 @@ export const projects = [
     tech: ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB", "JWT"],
     link: "https://quackle-mern-production.up.railway.app/",
   },
-  {
-    title: "Audio Player App",
-    description: "Reusable audio player built with React Native Track Player",
-    tech: ["React Native", "Expo", "TypeScript"],
-    link: "#",
-  },
-  {
-    title: "Consultant Website",
-    description: "WordPress-based consulting platform",
-    tech: ["WordPress", "SEO"],
-    link: "#",
-  },
-  {
-    title: "Game Prototype",
-    description: "Experimental mobile game under Quackel brand",
-    tech: ["Unity", "C#"],
-    link: "#",
-  },
 ];
 
